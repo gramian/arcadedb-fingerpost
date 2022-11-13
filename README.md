@@ -30,6 +30,7 @@ ArcadeDB Fingerpost
 
 ## Drivers, Connectors, Clients
 
+* [CHICKEN Scheme](https://github.com/gramian/chicken-arcadedb)
 * [.NET](https://github.com/tetious/ArcadeDb.Client)
 * [Ruby](https://github.com/topofocus/arcadedb)
 * [Rust](https://crates.io/crates/arcadedb-rs)
