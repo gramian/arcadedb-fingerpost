@@ -35,6 +35,11 @@ ArcadeDB Fingerpost
 * [Ruby](https://github.com/topofocus/arcadedb)
 * [Rust](https://crates.io/crates/arcadedb-rs)
 
+## Miscellaneous
+
+* [ArcadeDB Cheat Sheet](https://gist.github.com/gramian/7dc306ede8582a6fb12d5dabd7e1328f)
+* [ArcadeDB SQL Script Runner](https://gist.github.com/gramian/7c3b621fbfc1eca6fa3ce901b6f7651c)
+
 ## OrientDB (ArcadeDB is a conceptual fork of OrientDB)
 
 ### Tutorials
