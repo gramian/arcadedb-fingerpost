@@ -25,7 +25,7 @@ ArcadeDB Fingerpost
 ## Not Yet Listed In
 
 * [NoSQL Databases List](https://hostingdata.co.uk/nosql-database/)
-* [DBpedia](https://www.dbpedia.org/)
+* [DBpedia](https://dbpedia.org/page/ArcadeDB)
 * [Wikipedia](https://en.wikipedia.org/wiki/Draft:ArcadeDB)
 
 ## Drivers, Connectors, Clients
