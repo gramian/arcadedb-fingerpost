@@ -66,6 +66,9 @@ ArcadeDB Fingerpost
 * [OrientDB Interview On Multi-Model DBs Management For Big Data](https://bigstep.com/blog/expert-interview-with-luca-garulli-of-orientdb-on-multi-model-database-management-for-big-data)
 * [OrientDB: A Flexible and Scalable Multi-Model NoSQL DBMS](https://www.opensourceforu.com/2022/01/orientdb-a-flexible-and-scalable-multi-model-nosql-dbms/)
 * [Die Graphdatenbank Orient DB](https://www.linux-magazin.de/ausgaben/2015/07/orient-db/) (German)
+* [One Minute ArcadeDB](https://dev.to/gramian/one-minute-arcadedb-37nl)
+* [How does ArcadeDB make data FAIR?](https://dev.to/gramian/how-does-arcadedb-make-data-fair-3aef)
+* [Ruby Adventures with ArcadeDB](https://dev.to/topofocus/ruby-adventures-with-aradedb-45em)
 
 ### Books
 
